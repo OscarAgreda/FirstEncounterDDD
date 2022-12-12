@@ -1,0 +1,77 @@
+﻿-add an image to evey folder of the clean architecture
+-watch the presenations from ardalis and create folders for all pieces
+-get this app running , its the key to my job
+-add transcripts for mediator from tim coreey
+-add whats new in net 7 to the front desk project
+		-- do i need api library
+		-- use minimal api ?
+		-- use the grup by on the controller
+- change the ui to mud blazor , front dek fisrt then public site
+
+-- add identity server duende or better yey maybe, use the new pass tokens from net7
+
+-- see if i can rename it to orders and order details, maybe then tenant id or business unit
+
+
+specifications
+https://youtu.be/lkmvnjypENw?t=1578
+
+
+migrate
+https://www.sudshekhar.com/blog/understanding-createbuilder-method-in-aspnetcore
+
+
+i may add required
+https://dirkstrauss.com/required-properties-in-csharp/
+
+required
+https://www.youtube.com/watch?v=_hQPSOocXs0
+
+
+web assemblye virtual 
+https://www.youtube.com/watch?v=oNZnYNUpu54&ab_channel=IAmTimCorey
+
+
+update to net 7
+https://youtu.be/mgkxe06PqE8?t=195
+
+
+nimble pros
+
+https://blog.nimblepros.com/blogs/getting-started-with-specifications/
+https://blog.nimblepros.com/blogs/getting-started-with-guard-clauses/
+https://blog.nimblepros.com/blogs/extending-guard-clauses/
+https://blog.nimblepros.com/blogs/getting-started-with-ardalis-result/
+
+Clean up your .NET Controllers with ApiEndpoints
+https://www.youtube.com/watch?v=SDu0MA6TmuM
+
+
+Using MediatR in .NET? Maybe replace it with this
+https://www.youtube.com/watch?v=aaFLtcf8cO4
+
+Every single feature added in C# 11
+https://www.youtube.com/watch?v=cqCBhkNroDI
+
+
+Every feature added in C# 10 with examples
+https://www.youtube.com/watch?v=Vft4QDUpyWY
+
+What's new in C#? Exciting new features in C# 8.0, 9.0 and 10! -
+oscar amazing
+https://youtu.be/f9p6iA2rB58?t=446
+
+
+
+https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
+
+
+
+https://github.com/ardalis/pluralsight-ddd-fundamentals
+
+
+https://www.nuget.org/packages/Genocs.CleanArchitecture/
+
+https://nugetmusthaves.com/Tag/aggregate
+
+https://thecodewrapper.com/dev/implementing-clean-architecture-in-aspnetcore-6/
